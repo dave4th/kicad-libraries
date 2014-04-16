@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 05 Apr 2014 11:44:09 AM CEST
+#
+$CMP DISPLAY7DP
+D Display Led 7 Segmenti
+K Display Led 7
+$ENDCMP
+#
+$CMP LED_IR_R
+D LED Infrared Receiver
+K LED IR
+$ENDCMP
+#
+$CMP NE555
+F ns/lm555.pdf
+$ENDCMP
+#
+$CMP SAA1064
+D 4 digit LED driver I2C Bus
+K LED DRIVER I2C
+$ENDCMP
+#
+#End Doc Library
