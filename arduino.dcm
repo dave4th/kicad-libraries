@@ -1,8 +1,18 @@
-EESchema-DOCLIB  Version 2.0  Date: Sat 05 Apr 2014 11:44:09 AM CEST
+EESchema-DOCLIB  Version 2.0  Date: Sun 11 Oct 2015 08:43:41 AM CEST
+#
+$CMP 7414
+D Hex Schmitt Inverter
+K Inverter
+$ENDCMP
 #
 $CMP DISPLAY7DP
 D Display Led 7 Segmenti
 K Display Led 7
+$ENDCMP
+#
+$CMP L293
+D Quadruple Half-H Drivers
+K H-bridge
 $ENDCMP
 #
 $CMP LED_IR_R
